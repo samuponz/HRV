@@ -1,6 +1,6 @@
 # HRV
 Introduzione al fenomeno della variabilità della frequenza cardiaca e descrizione in un possibile metodo per il rilevamento di questa grandezza.
-Il procedimento descritto è stato implementato in un programma Matlab per osservare i risultati. Nel programma vengono studati dei segnali ECG di soggetti sani, in condizioni di riposo.
+Il procedimento descritto è implementato in un programma Matlab per osservare i risultati. Nel programma vengono studati dei segnali ECG di soggetti sani, in condizioni di riposo.
 
 ### Introduzione all’HRV
 Il normale ritmo cardiaco, chiamato *ritmo sinusale*, viene scandito dall’attività del nodo del seno atriale. Questo
