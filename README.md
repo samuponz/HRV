@@ -1,5 +1,5 @@
 # HRV
-Introduzione al fenomeno della variabilità della frequenza cardiaca e descrizione in un possibile metodo per il rilevamento di questa grandezza.
+Introduzione al fenomeno della variabilità della frequenza cardiaca, descrizione dn un possibile metodo per il rilevamento di questo parametro fisiologico.
 Il procedimento descritto è implementato in un programma Matlab per osservare i risultati. Nel programma vengono studati dei segnali ECG di soggetti sani, in condizioni di riposo.
 
 ### Introduzione all’HRV
