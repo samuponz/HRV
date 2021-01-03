@@ -3,7 +3,7 @@ Una breve introduzione al fenomeno della variabilità della frequenza cardiaca,
 di rilevamento di questa grandezza. L’intero procedimento viene applicato per estrapolare informazioni riguardo la
 variabilità del battito cardiaco di un segnale ECG reale attraverso un programma MATLAB.
 
-## Introduzione all’HRV
+### Introduzione all’HRV
 Il normale ritmo cardiaco, chiamato *ritmo sinusale*, viene scandito dall’attività del nodo del seno atriale. Questo
 ritmo varia intorno a una media, l’*heart rate* (HR), che dipende dalle continue regolazioni del *sistema nervoso
 autonomo*. Dall’HR è possibile capire come agiscono le due componenti di quest'ultimo (il *sistema simpatico e
