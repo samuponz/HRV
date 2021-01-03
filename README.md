@@ -17,11 +17,5 @@ In condizioni di riposo, l’attività parasimpatica è dominante e controlla le
 
 *Procedimento dell'algoritmo di Pan Tompkins per la rilveazione dei picchi R applicato ad un segnale ECG*
 ![Image1](/Grafici/PanTompkins.png)
-                                             
-*Tacogramma di un segnale ECG*
-![Image2](/Grafici/Tacogramma.png)
-                                                                   
-*Densità spettrale di potenza di un segnale ECG*
-![Image3](/Grafici/Stima PDS.png)
-                                                            
+                                                     
 
