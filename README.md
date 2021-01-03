@@ -13,3 +13,6 @@ attività porta a continue variazioni della frequenza cardiaca, che si riassume
 (HRV)*.
 
 In condizioni di riposo, l’attività parasimpatica è dominante e controlla le significative variazioni dell’HR. In condizioni di stress o di attività fisica le oscillazioni si riducono in conseguenza ad un aumento dell’HR, che viene mantenuto ad un ritmo costante.
+
+
+[RELAZIONE COMPLETA](/Studio%20HRV%20(report%20fallimentare).pdf)
