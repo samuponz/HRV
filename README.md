@@ -6,7 +6,7 @@ Il procedimento descritto è implementato in un programma Matlab per osservare i
 Il normale ritmo cardiaco, chiamato *ritmo sinusale*, viene scandito dall’attività del nodo del seno atriale. Questo
 ritmo varia intorno a una media, l’*heart rate* (HR), che dipende dalle continue regolazioni del *sistema nervoso
 autonomo* (SNA). Osservando l'HR è possibile capire come agiscono le due componenti dell'SNA (il *sistema simpatico e
-parasimpatico (vagale)*) sulle cellule pacemaker del nodo seno atriale. L’attività parasimpatica agisce diminuendo
+parasimpatico-vagale*) sulle cellule pacemaker del nodo seno atriale. L’attività parasimpatica agisce diminuendo
 l’heart rate mentre l’azione del sistema simpatico ne causa l’aumento. L’equilibrio dinamico dato da queste due
 attività porta a continue variazioni della frequenza cardiaca, fenomeno che viene riassunto dal comportamento della così detta *heart rate variability
 (HRV)*.
