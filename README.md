@@ -19,4 +19,4 @@ ________________________________________________________________________________
 
 
 ![Image1](/Grafici/PanTompkins.png)
-*<div align="center">Procedimento dell'algoritmo di Pan Tompkins per la rilveazione dei picchi R applicato ad un segnale ECG</div>*                                                  
+*<div align="center">Procedimento dell'algoritmo di Pan-Tompkins per la rilveazione dei picchi R applicato ad un segnale ECG</div>*                                                  
