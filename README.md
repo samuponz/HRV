@@ -15,7 +15,9 @@ In condizioni di riposo, l’attività parasimpatica è dominante e controlla le
 
 [RELAZIONE COMPLETA](/Studio%20HRV%20(report%20fallimentare).pdf)
 
-*Procedimento dell'algoritmo di Pan Tompkins per la rilveazione dei picchi R applicato ad un segnale ECG*
+_________________________________________________________________________________________________________________________________________________________
+
+
 ![Image1](/Grafici/PanTompkins.png)
-                                                     
+*Procedimento dell'algoritmo di Pan Tompkins per la rilveazione dei picchi R applicato ad un segnale ECG*                                                     
 
