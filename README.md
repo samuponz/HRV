@@ -11,8 +11,16 @@ parasimpatico o vagale*) sulle cellule pacemaker del nodo seno atriale. L’atti
 l’heart rate mentre l’azione del sistema simpatico ne causa l’aumento. L’equilibrio dinamico dato da queste due
 attività porta a continue variazioni della frequenza cardiaca, che si riassume nel termine *heart rate variability
 (HRV)*.
-
 In condizioni di riposo, l’attività parasimpatica è dominante e controlla le significative variazioni dell’HR. In condizioni di stress o di attività fisica le oscillazioni si riducono in conseguenza ad un aumento dell’HR, che viene mantenuto ad un ritmo costante.
 
-
 [RELAZIONE COMPLETA](/Studio%20HRV%20(report%20fallimentare).pdf)
+
+![Image1](/Grafici/PanTompkins.png)
+*Procedimento dell'algoritmo di Pan Tompkins per la rilveazione dei picchi R del segnale ECG*
+
+![Image2](/Grafici/Tacogramma.png)
+*Esempio di Tacogramma del segnale ECG*
+
+![Image2](/Grafici/Stima%20PDS.png)
+*Esempio di Densità spettrale di potenza di un segnale ECG*
+
