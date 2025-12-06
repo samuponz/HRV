@@ -14,7 +14,7 @@ Osservando un soggetto in salute è possibile vedere come:
  - in condizioni di riposo, l’attività parasimpatica sia dominante e controlli le significative variazioni dell’HR.
  - in condizioni di stress o di attività fisica le oscillazioni si riducano, in conseguenza ad un aumento dell’HR che viene mantenuto ad un ritmo costante.
 
-[RELAZIONE COMPLETA](HRV_report.pdf).pdf)
+[RELAZIONE COMPLETA](HRV_report.pdf))
 
 _________________________________________________________________________________________________________________________________________________________
 
